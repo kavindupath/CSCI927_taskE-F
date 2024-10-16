@@ -1,0 +1,32 @@
+CaseID,TaskID,Timestamp,Resource,Message
+UGU100,1,2024-10-15T12:18:39.764Z,UserManagementService,User login successful
+UGU100,1,2024-10-15T12:19:59.639Z,run_application,Application started
+UGU100,1,2024-10-15T12:21:29.422Z,run_application,Application started
+UGU100,1,2024-10-15T12:25:07.472Z,run_application,Application started
+UGU100,1,2024-10-15T12:29:29.677Z,run_application,Application started
+UGU100,1,2024-10-15T12:32:12.866Z,run_application,Application started
+UGU101,2,2024-10-16T02:02:24.758Z,check_availability,fetching table availability
+UGU102,3,2024-10-16T02:02:26.520Z,table_availability,table available
+UGU103,4,2024-10-16T02:02:26.879Z,add_reservation,adding reservation
+UGU104,5,2024-10-16T02:02:27.445Z,add_reservation_success,reservation successful
+UGU105,6,2024-10-16T02:02:54.858Z,check_availability,fetching table availability
+UGU106,7,2024-10-16T02:02:55.107Z,table_availability,table unavailable
+UGU107,8,2024-10-16T02:02:55.110Z,undefined,No table is available for the selected date and time
+UGU108,9,2024-10-16T03:34:52.806Z,check_availability,fetching table availability
+UGU109,10,2024-10-16T03:34:53.051Z,table_availability,table unavailable
+UGU110,11,2024-10-16T03:34:53.053Z,undefined,No table is available for the selected date and time
+UGU100,1,2024-10-16T04:01:01.236Z,run_application,Application started
+UGU101,2,2024-10-16T04:07:04.139Z,check_availability,fetching table availability
+UGU102,3,2024-10-16T04:07:04.475Z,table_availability,table available
+UGU103,4,2024-10-16T04:07:04.827Z,add_reservation,adding reservation
+UGU104,5,2024-10-16T04:07:05.434Z,add_reservation_success,reservation successful
+UGU105,6,2024-10-16T04:07:54.573Z,check_availability,fetching table availability
+UGU106,7,2024-10-16T04:07:54.811Z,table_availability,table unavailable
+UGU107,8,2024-10-16T04:07:54.815Z,undefined,No table is available for the selected date and time
+UGU108,9,2024-10-16T04:12:23.959Z,check_availability,fetching table availability
+UGU109,10,2024-10-16T04:12:24.250Z,table_availability,table available
+UGU110,11,2024-10-16T04:12:24.560Z,add_reservation,adding reservation
+UGU111,12,2024-10-16T04:12:25.124Z,add_reservation_success,reservation successful
+UGU112,13,2024-10-16T04:12:43.505Z,check_availability,fetching table availability
+UGU113,14,2024-10-16T04:12:43.784Z,table_availability,table unavailable
+UGU114,15,2024-10-16T04:12:43.786Z,undefined,No table is available for the selected date and time
