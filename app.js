@@ -39,7 +39,7 @@ const PORT = process.env.PORT || 3000;
 
 mongoose
   .connect(
-    "mongodb+srv://kavindupath:Mongodb%40%244k@cluster0.vhukmem.mongodb.net/HotelServiceType?retryWrites=true&w=majority"
+    "Add the database URL here"
   )
   .then(() => {
     //app.listen(5000);
