@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "67025a2fb2c7d9de8962dd3e"
+  },
+  "seatingCapacity": 2,
+  "seatingPreference": "indoor",
+  "available": false,
+  "__v": 6,
+  "reservations": [
+    {
+      "date": "2024-10-29",
+      "time": "6:00 PM",
+      "_id": {
+        "$oid": "671053aa0a48d1c04569f80a"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67025a2fb2c7d9de8962dd3f"
+  },
+  "seatingCapacity": 4,
+  "seatingPreference": "outdoor",
+  "available": false,
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "67025a2fb2c7d9de8962dd40"
+  },
+  "seatingCapacity": 6,
+  "seatingPreference": "indoor",
+  "available": false,
+  "__v": 43,
+  "reservations": [
+    {
+      "date": "2024-10-10",
+      "time": "6:00 PM",
+      "_id": {
+        "$oid": "670f1eb21fb67a3fb0f435d0"
+      }
+    },
+    {
+      "date": "2024-10-24",
+      "time": "6:00 PM",
+      "_id": {
+        "$oid": "670f3be815a137e01a863444"
+      }
+    },
+    {
+      "date": "2024-10-24",
+      "time": "6:30 PM",
+      "_id": {
+        "$oid": "670f3d2815a137e01a86344c"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67025a2fb2c7d9de8962dd41"
+  },
+  "seatingCapacity": 4,
+  "seatingPreference": "window",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "67025a2fb2c7d9de8962dd42"
+  },
+  "seatingCapacity": 8,
+  "seatingPreference": "indoor",
+  "available": false,
+  "__v": 30
+}]
