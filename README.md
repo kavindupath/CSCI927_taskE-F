@@ -12,7 +12,7 @@ This microservice is designed to provide:
 ### Steps to Execute the Microservice
 
 1. **Clone the Application**
-   - Clone the repository to your local machine using the following command:
+   - Clone the repository to your local machine
 
 2. **Create MongoDB Cluster**
    - Set up a MongoDB cluster on MongoDB Atlas or any other cloud service.
