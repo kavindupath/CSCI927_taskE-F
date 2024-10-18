@@ -1,5 +1,5 @@
 
-# README: Menu Recommendation & Table Reservation Microservice
+# README: Table Reservation Microservice
 
 ### Overview
 This microservice is designed to provide:
